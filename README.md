@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yvonne-Sebastiane
+- 👋 Hi, I’m @YotsugiO
 - 👀 I’m interested in website build.
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on learning C++.
