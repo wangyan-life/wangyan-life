@@ -5,6 +5,6 @@
 - 📫 You could reach me at 3020207207@tju.edu.cn
 
 <!---
-DenebMercury/DenebMercury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wangyan-me/Yotsugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
